@@ -2,5 +2,9 @@
   {
     "package": "rgplates",
     "oncran": true
+  },
+  {
+    "package": "via",
+    "oncran": true
   }
 ]
