@@ -1,5 +1,9 @@
 [
   {
+    "package": "icosa",
+    "oncran": true
+  },
+  {
     "package": "rgplates",
     "oncran": true
   },
