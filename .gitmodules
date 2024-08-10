@@ -5,9 +5,6 @@
 [submodule "icosa"]
 	path = icosa
 	url = https://github.com/adamkocsis/icosa
-[submodule "rgplates"]
-	path = rgplates
-	url = https://github.com/adamkocsis/rgplates
 [submodule "via"]
 	path = via
 	url = https://github.com/adamkocsis/via
